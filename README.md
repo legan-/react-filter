@@ -11,7 +11,7 @@ Auto generated list of companies with filter based on React.
 
 ## Getting Started
 
-**Installing:**
+**Installation:**
 
 `npm i`
 
